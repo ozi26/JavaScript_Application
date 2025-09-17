@@ -1,5 +1,5 @@
 # JavaScript_Application
--
+
 Random Quote Generator
 A simple Node.js command-line tool that generates a random inspirational quote from a predefined list.
 
