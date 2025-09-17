@@ -2,8 +2,6 @@
 
 A simple Node.js command-line tool that generates a random inspirational quote from a predefined list.
 
-[![Node CI](https://github.com/<your-username>/<your-repo>/actions/workflows/ci.yml/badge.svg)](https://github.com/<your-username>/<your-repo>/actions/workflows/ci.yml)
-
 ## Features
 - Generates a random quote on each run.
 - Self-contained with no external dependencies for runtime.
