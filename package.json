@@ -1,0 +1,17 @@
+{
+  "name": "random-quote-generator",
+  "version": "1.0.0",
+  "description": "A simple Node.js CLI tool to generate random inspirational quotes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha test.js"
+  },
+  "keywords": ["node", "cli", "quotes"],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.0.0"
+  }
+}
